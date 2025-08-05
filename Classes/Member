@@ -1,5 +1,0 @@
-class Member{
-    private _name:String;
-    private _memberId: string;
-    private _borrowedBooks: Book[];
-}

@@ -1,4 +1,3 @@
-let test:string = "";
+import * as Processor from './FunctionClasses/Processor';
 
-
-console.log(test.trim();
+Processor.mainScreen();
